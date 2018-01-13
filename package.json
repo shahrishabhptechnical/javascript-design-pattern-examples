@@ -1,0 +1,19 @@
+{
+  "name": "javascript-design-pattern-examples",
+  "version": "1.0.0",
+  "description": "JavaScript Design Pattern Examples",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahrishabhptechnical/javascript-design-pattern-examples.git"
+  },
+  "author": "Rishabh Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahrishabhptechnical/javascript-design-pattern-examples/issues"
+  },
+  "homepage": "https://github.com/shahrishabhptechnical/javascript-design-pattern-examples#readme"
+}

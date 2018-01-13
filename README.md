@@ -1,3 +1,5 @@
-# web-notification
+# JavaScript Design Pattern Examples
 
-Many browsers support Notification API except IE. This API is mainly to support IE browser from 7.0 to 11.0 version.
+This repository contains different examples of JavaScript Design Pattern examples.
+
+# modulepattern.js is modulepattern1.js example of Module Design Patterns
