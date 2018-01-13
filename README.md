@@ -1,6 +1,13 @@
 # JavaScript Design Pattern Examples
 
-This repository contains different examples of JavaScript Design Pattern examples.
+This repository contains JavaScript Design Pattern examples.
+There are 4 design patterns in JavaScript
 
-# Module Design Pattern contains 2 examples
-<h5> modulepattern.js and modulepattern1.js files </h5>
+# Module Pattern Examples
+<h4> app.js and app1.js files </h4>
+
+# ProtoType Pattern Examples
+
+# Observer Pattern Examples
+
+# Singleton Pattern Examples
