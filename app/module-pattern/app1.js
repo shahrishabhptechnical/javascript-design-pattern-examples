@@ -4,10 +4,10 @@ var WebNotification = (function () {
         buildAndShowNotification = function (msg) {
             console.log(this);
             alert(msg || defaultMsg);
-        }
-    var notificationObject = {
-        showNotification: buildAndShowNotification
-    };
+        },
+        notificationObject = {
+            showNotification: buildAndShowNotification
+        };
 
     return notificationObject;
 })();

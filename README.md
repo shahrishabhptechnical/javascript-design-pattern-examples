@@ -7,6 +7,7 @@ There are 4 design patterns in JavaScript
 <h4> app.js and app1.js files </h4>
 
 # ProtoType Pattern Examples
+<h4> app.js and app1.js files </h4>
 
 # Observer Pattern Examples
 
