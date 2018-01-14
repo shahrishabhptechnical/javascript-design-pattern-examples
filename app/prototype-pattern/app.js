@@ -1,5 +1,5 @@
 var WebNotification = function () {
-    this.defaultMsg= "Notification Message!";
+    this.defaultMsg = "Notification Message!";
 }
 
 WebNotification.prototype = function () {
